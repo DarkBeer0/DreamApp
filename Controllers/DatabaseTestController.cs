@@ -15,7 +15,7 @@ namespace DreamApp.Controllers
             _configuration = configuration;
         }
 
-        [HttpGet]
+        [HttpGet(Name = "BdTest")]
         public IActionResult Get()
         {
             var connectionString = _configuration.GetConnectionString("DefaultConnection");
