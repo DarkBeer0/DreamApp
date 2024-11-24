@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DreamApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b75c774bee11b56772a273a50a587c16ef76489")]
 [assembly: System.Reflection.AssemblyProductAttribute("DreamApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DreamApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
